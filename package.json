@@ -1,0 +1,15 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "Test task for Status",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc index.ts && node index.js"
+  },
+  "author": "Dmitriy Ananyin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
